@@ -1,0 +1,5 @@
+# Archivos que genera NetBeans al compilar
+60-seconds/build/
+60-seconds/dist/
+# Configuración local de cada computadora (rutas de Windows, etc.)
+60-seconds/nbproject/private/
